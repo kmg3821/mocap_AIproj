@@ -2,6 +2,10 @@
 imu-based motion capture and pose classification (2022년도 1학기 인하대 인공지능 융합 프로젝트)
 
 
+<p algin="center">
+<img src="https://user-images.githubusercontent.com/52714442/174533874-a5414c86-cdb6-4a3c-88ae-791fe5b34378.gif">
+</p>
+  
 코드/posetracking: 메인
 
 코드/modelx: 분류기 모델
