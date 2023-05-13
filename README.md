@@ -1,5 +1,5 @@
 # mocap_AIproj
-imu-based motion capture and pose classification (2022년도 1학기 인하대 인공지능 융합 프로젝트)
+imu-based motion capture and pose classification project
 
 
 <p algin="center">
